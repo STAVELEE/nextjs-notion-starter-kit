@@ -63,8 +63,8 @@ export const PageHead: React.FC<
       {socialImageUrl ? (
         <>
           <meta name='twitter:card' content='summary_large_image' />
-          <meta name='twitter:image' content={socialImageUrl} />
-          <meta property='og:image' content={socialImageUrl} />
+          <meta name='twitter:image' content="https://opengraph.b-cdn.net/production/documents/22200609-a143-4738-9165-d9096127c8d7.png?token=6MYkXpzQFgO5-DYcogWJVaO_B82nnOm2GwhVCKf5P0Q&height=230&width=1170&expires=33242069744" />
+          <meta property='og:image' content="https://opengraph.b-cdn.net/production/documents/22200609-a143-4738-9165-d9096127c8d7.png?token=6MYkXpzQFgO5-DYcogWJVaO_B82nnOm2GwhVCKf5P0Q&height=230&width=1170&expires=33242069744" />
         </>
       ) : (
         <meta name='twitter:card' content='summary' />
