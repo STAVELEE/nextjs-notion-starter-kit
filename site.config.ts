@@ -9,26 +9,24 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'PB Marketing - with BORA Team.',
+  name: 'PB Marketing 퍼블 마케팅 - with BORA Team.',
   domain: 'nextjs-notion-starter-kit-psi-blue.vercel.app',
   author: 'PB Marketing',
 
   // open graph metadata (optional)
-  description: '인스타팔로워늘리기, 인스타팔로워구매, 인스타한국인팔로워, 유튜브조회수늘리기, 유튜브구독자늘리기, 인스타그램팔로워늘리기, 유튜브구독자구매, 트래픽, 틱톡, 페이스북, 플레이스, 블로그, 쓰레드, 유튜브',
+  description: '퍼블 마케팅, 인스타팔로워늘리기, 인스타팔로워구매, 인스타한국인팔로워, 유튜브조회수늘리기, 유튜브구독자늘리기, 인스타그램팔로워늘리기, 유튜브구독자구매, 트래픽, 틱톡, 페이스북, 플레이스, 블로그, 쓰레드, 유튜브',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  nblog: 'boracm',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'https://cdn.imweb.me/upload/S20231119ec49b4c5c8219/6dd46a6be23da.png',
   defaultPageCover: null,
-  defaultPageCoverPosition: 0.5,
+  defaultPageCoverPosition: 0.3,
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
