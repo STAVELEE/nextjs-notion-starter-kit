@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'PB Marketing 퍼블 마케팅 - with BORA Team.',
-  domain: 'nextjs-notion-starter-kit-psi-blue.vercel.app',
+  domain: 'landing.pbmarketing.co.kr',
   author: 'PB Marketing',
 
   // open graph metadata (optional)
@@ -24,8 +24,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://cdn.imweb.me/upload/S20231119ec49b4c5c8219/6dd46a6be23da.png',
-  defaultPageCover: 'https://landing.pbmarketing.co.kr/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252Fd4b56409-1bad-40e9-8858-e32030fc012c%252Fb92a4077-99b3-4d46-a79b-26a7c30b5f65%252F%2525E1%252584%25258C%2525E1%252585%2525A6%2525E1%252584%252586%2525E1%252585%2525A9%2525E1%252586%2525A8%2525E1%252584%25258B%2525E1%252585%2525B3%2525E1%252586%2525AF_%2525E1%252584%25258B%2525E1%252585%2525B5%2525E1%252586%2525B8%2525E1%252584%252585%2525E1%252585%2525A7%2525E1%252586%2525A8%2525E1%252584%252592%2525E1%252585%2525A2%2525E1%252584%25258C%2525E1%252585%2525AE%2525E1%252584%252589%2525E1%252585%2525A6%2525E1%252584%25258B%2525E1%252585%2525AD_-001_(6).png%3Ftable%3Dblock%26id%3Dceca6166-ee81-4dfa-8870-28bc526256ac%26cache%3Dv2&w=2048&q=75',
+  defaultPageIcon: null,
+  defaultPageCover: null,
   defaultPageCoverPosition: 0.3,
 
   // whether or not to enable support for LQIP preview images (optional)
