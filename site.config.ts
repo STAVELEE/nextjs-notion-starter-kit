@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'PB Marketing',
 
   // open graph metadata (optional)
-  description: '퍼블 마케팅, 인스타팔로워늘리기, 인스타팔로워구매, 인스타한국인팔로워, 유튜브조회수늘리기, 유튜브구독자늘리기, 인스타그램팔로워늘리기, 유튜브구독자구매, 트래픽, 틱톡, 페이스북, 플레이스, 블로그, 쓰레드, 유튜브',
+  description: '퍼블 마케팅, 마케팅의 비밀 모든것을 알려드립니다. - 모든 SNS 마케팅 퍼블.',
 
   // social usernames (optional)
   nblog: 'boracm',
