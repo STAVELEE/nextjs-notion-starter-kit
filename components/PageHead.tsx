@@ -40,6 +40,7 @@ export const PageHead: React.FC<
 
       <meta name='robots' content='index,follow' />
       <meta property='og:type' content='website' />
+      <link rel='canonical' href='https://landing.pbmarketing.co.kr/'>
 
       {site && (
         <>
